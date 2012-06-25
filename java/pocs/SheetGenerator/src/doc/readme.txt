@@ -1,1 +1,1 @@
-Proff of concept: Sheet generator
+Proof of concept: Sheet generator
